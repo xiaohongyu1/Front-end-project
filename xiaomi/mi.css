@@ -1,8 +1,8 @@
 /*-- 顶层广告 */
 .header {
-  /* width: 100%; */
+  width: 100%;
   height: 120px;
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 
 .header img {
